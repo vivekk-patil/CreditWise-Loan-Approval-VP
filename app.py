@@ -181,6 +181,6 @@ st.markdown("""
     color: #666;
     font-size: 14px;
 ">
-    © 2026 AI Assistant | Developed by Vivek Patil
+    © 2026 AI Assistant | Developed by Vivek Satish Patil
 </footer>
 """, unsafe_allow_html=True)
