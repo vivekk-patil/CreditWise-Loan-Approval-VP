@@ -173,7 +173,14 @@ if st.button("🔍 Predict Loan Approval"):
         </div>""", unsafe_allow_html=True)
 
 st.markdown("""
-<div class='footer'>
-    <strong>Made with ❤️ by Vivek Patil <a href='mailto:vivekp9356@gmail.com'>📧 vivekp9356@gmail.com</a></strong>
-</div>
+<footer style="
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+    border-top: 1px solid #ddd;
+    color: #666;
+    font-size: 14px;
+">
+    © 2026 AI Assistant | Developed by Vivek Patil
+</footer>
 """, unsafe_allow_html=True)
